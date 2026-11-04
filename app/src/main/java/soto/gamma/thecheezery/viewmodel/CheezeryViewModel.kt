@@ -84,7 +84,7 @@ class CheezeryViewModel : ViewModel() {
         Product(
             "Peanut Milkshake",
             95.0,
-            R.drawable.peanutmilshake,
+            R.drawable.peanutmilkshake,
             ProductCategory.COLD_DRINKS
         ),
 
